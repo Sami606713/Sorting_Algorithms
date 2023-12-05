@@ -21,6 +21,6 @@ function buuble_sort(arr,op) {
     return arr
 }
 
-let arr=[9,8,7,6,5,10,11,4,3,2,1]
-console.log("Desending order: ",buuble_sort(arr,"desc"))
+let arr=[9,8,7,6,5,10,11,4,3,2,1,56,99,0,6]
+console.log("Desendingorder: ",buuble_sort(arr,"desc"))
 console.log("Asscending order: ",buuble_sort(arr,"asc"))
